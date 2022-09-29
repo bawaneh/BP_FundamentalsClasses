@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.fundamentals-classes-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Oakland University/Desktop/T3 Unreal engine/BP_FundamentalsClasses/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Fundamentals Classes-18319896 [UE Editor]"
+				}
+			}
+		}
+	]
+}
